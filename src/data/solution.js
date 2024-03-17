@@ -3,4 +3,4 @@ export const solutions = {
     "elektronisch": ["mittel", ["Telefon", "Fernseher", "Wecker", "Computer"]],
     "rot": ["schwer", ["Tomate", "Feuerwehrauto", "Apfel", "Rose"]],
     "voll": ["unmöglich", ["Bär", "Truthahn", "Socke", "Pfeffer"]]
-}
+} 

@@ -432,7 +432,7 @@ const Game = ({ state }) => {
                   handlePopup(winStatus);
                 }}
               >
-                <h1 className='text-xs font-medium select-none lg:text-md'>Resultados</h1>
+                <h1 className='text-xs font-medium select-none lg:text-md'>Ergebnisse</h1>
               </button>
             )
           }
