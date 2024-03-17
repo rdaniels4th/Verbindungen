@@ -1,6 +1,6 @@
 export const solutions = {
-    "triste": ["einfach", ["deprimiert", "gedrückt", "pessimistisch", "unglücklich"]],
-    "elektronisch": ["mittel", ["Telefon", "Fernseher", "Wecker", "Computer"]],
-    "rot": ["schwer", ["Tomate", "Feuerwehrauto", "Apfel", "Rose"]],
-    "voll": ["unmöglich", ["Bär", "Truthahn", "Socke", "Pfeffer"]]
-} 
+    "Innovation": ["einfach", ["Cipher", "Loom", "Harpsichord", "Juggernaut"]],
+    "Physics": ["mittel", ["Nebula", "Pendulum", "Dynamo", "Gyroscope"]],
+    "Mythology": ["Tomate", ["Seraphim", "Albatross", "Narwhal", "Obsidian"]],
+    "Luminosity": ["unmöglich", ["Iridescence", "Kaleidoscope", "Lantern", "Maelstrom"]]
+}
